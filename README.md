@@ -9,3 +9,12 @@ Data Analyst Intern at Rapid7
 • Contributed and developed solutions that would grant better and easier utilizations in Tableau for users within the company, ensuring that the user’s understanding of the data will increase by at least 30%.
 • Collaborated with legal department to extract and transfer critical historical data from original source to a new repository, ensuring compliance and data integrity throughout the process - saved 80+ man-hours per month.
 • Validated Data in Snowflake using SQL queries to ensure that information was accurate and complete prior to being used for visualization and management reporting.
+
+
+### Projects
+Business Performance & Strategic Planning Project
+(/assets/Screenshot 2024-03-02 175734.png)
+
+Management wants to identify the major factors contributing to revenue, and plan strategically for next year. 
+
+This project displays revenue trend for each market, as well as displaying customer retention, customer/marketing demographics, overall performance and projected performance which will provide valuable insights into what areas are performing well and what areas need improvement. From there, this can help stakeholders form solutions to plan for the upcoming year.
