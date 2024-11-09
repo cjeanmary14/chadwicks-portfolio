@@ -14,7 +14,7 @@ Data Analyst Intern at Rapid7
 ### Projects
 Business Performance & Strategic Planning Project
 
-![image alt](https://github.com/cjeanmary14/chadwicks-portfolio/blob/57620aea59f64e2a5efe2a66b2aa70db50159e40/assets/Screenshot%202024-03-02%20175734.png)
+![image](https://github.com/user-attachments/assets/39fb5c39-2bba-4c89-b706-81469f0e082b)
 
 Management wants to identify the major factors contributing to revenue, and plan strategically for next year. 
 
