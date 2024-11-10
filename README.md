@@ -14,6 +14,8 @@ Data Analyst Intern at Rapid7
 ### Projects
 Business Performance & Strategic Planning Project
 
+[View Project](https://cjeanmary14.github.io/business-performance-and-strategic-planning-project/)
+
 ![image](https://github.com/user-attachments/assets/39fb5c39-2bba-4c89-b706-81469f0e082b)
 
 Management wants to identify the major factors contributing to revenue, and plan strategically for next year. 
