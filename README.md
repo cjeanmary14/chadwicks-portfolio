@@ -21,3 +21,7 @@ Business Performance & Strategic Planning Project
 Management wants to identify the major factors contributing to revenue, and plan strategically for next year. 
 
 This project displays revenue trend for each market, as well as displaying customer retention, customer/marketing demographics, overall performance and projected performance which will provide valuable insights into what areas are performing well and what areas need improvement. From there, this can help stakeholders form solutions to plan for the upcoming year.
+
+
+
+Home Loan Qualification Project
