@@ -27,3 +27,6 @@ This project displays revenue trend for each market, as well as displaying custo
 Home Loan Qualification Project
 
 ![image](https://github.com/user-attachments/assets/8381fdab-4f76-491a-aa5a-416fa8918e0a)
+
+
+The company wants to automate the loan eligibility process (real-time) based on customer detail provided while filling out the online application form. These details are Gender, Marital Status, Education, Number of Dependents, Income, Loan Amount, Credit History and others. To automate this process, they have given a problem identifying the customer segments eligible for loan amounts to target these customers specifically.
