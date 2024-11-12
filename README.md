@@ -26,6 +26,8 @@ This project displays revenue trend for each market, as well as displaying custo
 
 Home Loan Qualification Project
 
+[View Project](https://cjeanmary14.github.io/home-loan-qualification-project/)
+
 ![image](https://github.com/user-attachments/assets/8381fdab-4f76-491a-aa5a-416fa8918e0a)
 
 
