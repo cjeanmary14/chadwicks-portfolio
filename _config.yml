@@ -1,5 +1,6 @@
+logo: https://github.com/cjeanmary14/chadwicks-portfolio/blob/1cb4848cbdcb423df0118bcf26e4ae62e7293293/assets/IMG_3803.png
 title: Chadwick Jeanmary
 description: Data Analyst based in Boston, MA
 description: Chadwick.Jeanmary@gmail.com
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-minimal 
